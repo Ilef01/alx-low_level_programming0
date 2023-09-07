@@ -1,8 +1,11 @@
 #include <stdio.h>
 
 /**
- * This is the main fuction.
- * It displays a messaage and returns 0.
+ * main - Entry point of the program.
+ *
+ * This function displays a messaage using th function puts and returns 0.
+ *
+ * Return: Always 0 (success)
  */
 int main(void)
 {
